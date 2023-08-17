@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.myForm{
+  width: 400px;
+  margin: auto;
+  border: 5px solid yellowgreen;
+  background-color: lightgray;
+  padding: 10px;
+  text-align: center;
+}
+.Table{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  border: 6px solid greenyellow;
+  box-shadow: 1px 1px 15px 8px black;
+  
+}
+.div{
+  margin: auto;
+  text-align: center;
+}

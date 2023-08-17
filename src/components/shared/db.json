@@ -1,0 +1,70 @@
+{
+  "employee": [
+    {
+      "name": "Maddy",
+      "post": "Fullstack Developer",
+      "salary": "75000",
+      "id": 101
+    },
+    {
+      "name": "Pranay",
+      "post": "Python Developer",
+      "salary": "65000",
+      "id": 102
+    },
+    {
+      "id": 103,
+      "name": "Sachin",
+      "post": "Java Developer",
+      "salary": "80000"
+    },
+    {
+      "id": 104,
+      "name": "Tony",
+      "post": "React Developer",
+      "salary": "78000"
+    },
+    {
+      "id": 105,
+      "name": "Munaf",
+      "post": "Humen Resource",
+      "salary": "45000"
+    },
+    {
+      "id": 106,
+      "name": "Vishal",
+      "post": "Frontend Developer",
+      "salary": "45000"
+    },
+    {
+      "id": 107,
+      "name": "Arbaz",
+      "post": "Backend Developer",
+      "salary": "60000"
+    },
+    {
+      "name": "Sohail Atar",
+      "post": "developer",
+      "salary": "75000",
+      "id": 110
+    },
+    {
+      "name": "Mujahid ",
+      "post": "Senior Developer",
+      "salary": "150000",
+      "id": 111
+    },
+    {
+      "name": "Rushi More",
+      "post": "data analyst",
+      "salary": "703300",
+      "id": 112
+    },
+    {
+      "name": "Suraj",
+      "post": "Data engineer",
+      "salary": "75000",
+      "id": 113
+    }
+  ]
+}
